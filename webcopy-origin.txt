@@ -1,0 +1,560 @@
+Uri: https://cdn-images.mailchimp.com/embedcode/classic-071822.css
+File Name: C:\Downloaded Web Sites\manta.network\embedcode\classic-071822.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/@cookbookdev/docsbot/dist/standalone/index.cjs.js
+File Name: C:\Downloaded Web Sites\manta.network\npm\@cookbookdev\docsbot\dist\standalone\index.cjs.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bignumber.js@9.1.2/bignumber.min.js
+File Name: C:\Downloaded Web Sites\manta.network\npm\bignumber.js@9.1.2\bignumber.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\manta.network\npm\bootstrap@5.1.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\manta.network\npm\bootstrap@5.1.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/numbro@2.3.6/dist/numbro.min.js
+File Name: C:\Downloaded Web Sites\manta.network\npm\numbro@2.3.6\dist\numbro.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\manta.network\npm\swiper@9\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\manta.network\npm\swiper@9\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.usefathom.com/script.js
+File Name: C:\Downloaded Web Sites\manta.network\script.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap
+File Name: C:\Downloaded Web Sites\manta.network\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Red+Hat+Mono:wght@300;400;500;600&family=Red+Hat+Text:wght@300;400;500;600&display=swap
+File Name: C:\Downloaded Web Sites\manta.network\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/delagothicone/v16/hESp6XxvMDRA-2eD0lXpDa6QkBAGRQ.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\delagothicone\v16\hESp6XxvMDRA-2eD0lXpDa6QkBAGRQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQQPI-7E.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhatmono\v11\jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQQPI-7E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3I-7E.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhatmono\v11\jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQV3I-7E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQW_I-7E.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhatmono\v11\jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQW_I-7E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhatmono/v11/jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQYPP-7E.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhatmono\v11\jVyY7nDnA2uf2zVvFAhhzEs-VMSjJpBTfgjwQYPP-7E.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrY.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML-ZwVrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrY.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML2Z3VrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrY.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML4pwVrY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/redhattext/v14/RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrY.ttf
+File Name: C:\Downloaded Web Sites\manta.network\s\redhattext\v14\RrQCbohi_ic6B3yVSzGBrMx6ZI_cy1A6Ok2ML7hwVrY.ttf
+Content Type: font/ttf
+
+Uri: https://manta.network/
+File Name: C:\Downloaded Web Sites\manta.network\index.htm
+Content Type: text/html
+
+Uri: https://manta.network/about.html
+File Name: C:\Downloaded Web Sites\manta.network\about.html
+Content Type: text/html
+
+Uri: https://manta.network/assets/css/styles.css?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\css\styles.css
+Content Type: text/css
+
+Uri: https://manta.network/assets/css/styles.css?v=1.1.5
+File Name: C:\Downloaded Web Sites\manta.network\assets\css\styles-1.css
+Content Type: text/css
+
+Uri: https://manta.network/assets/img/about-hero-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\about-hero-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/achievements-card-1-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\achievements-card-1-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/achievements-card-2-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\achievements-card-2-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/achievements-card-3-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\achievements-card-3-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/airdrop-banner.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\airdrop-banner.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/airdrop.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\airdrop.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/arkham-logo.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\arkham-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/articles-slider-next-arrow-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\articles-slider-next-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/articles-slider-prev-arrow-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\articles-slider-prev-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/banner-bounce.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\banner-bounce.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/banner-expedition.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\banner-expedition.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/beat.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\beat.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/bridge-to-altantic.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\bridge-to-altantic.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/btn-arrow-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\btn-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/btn-black-arrow-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\btn-black-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/btn-white-arrow-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\btn-white-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/build/build-cards-bg.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\build\build-cards-bg.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/cedefi-nft.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\cedefi-nft.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/celestia.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\celestia.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/community/community-slider-image-1.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\community\community-slider-image-1.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/community/community-slider-image-2.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\community\community-slider-image-2.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/community/community-slider-image-3.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\community\community-slider-image-3.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/community/community-slider-image-4.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\community\community-slider-image-4.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/community/community-slider-image-5.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\community\community-slider-image-5.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/community/community-slider-image-6.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\community\community-slider-image-6.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/dapplooker.avif
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\dapplooker.avif
+Content Type: image/avif
+
+Uri: https://manta.network/assets/img/defil-llama.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\defil-llama.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/DEXScreener.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\DEXScreener.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/dune.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\dune.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/ecosystem-card-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\ecosystem-card-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/ecosystem-grants.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\ecosystem-grants.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/ecosystem-upd.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\ecosystem-upd.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/ecosystem/ecosystem-hero-bg.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\ecosystem\ecosystem-hero-bg.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/ecosystem/ecosystem-hero-mobile-bg.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\ecosystem\ecosystem-hero-mobile-bg.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/events/event-1-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\events\event-1-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/events/event-2-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\events\event-2-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/events/event-3-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\events\event-3-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/events/event-4-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\events\event-4-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/events/event-5-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\events\event-5-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/events/event-6-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\events\event-6-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/gasgain-nft.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\gasgain-nft.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/header-button-bg.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\header-button-bg.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/hero-bridge-bg.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\hero-bridge-bg.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/hero-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\hero-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/link-bridge.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\link-bridge.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/link-build.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\link-build.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/logo-white.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/logo.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/logos/coindesk-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logos\coindesk-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/logos/cointelegraph-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logos\cointelegraph-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/logos/decrypt-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logos\decrypt-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/logos/forbes-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logos\forbes-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/logos/hackernoon-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logos\hackernoon-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/logos/newsbtc-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logos\newsbtc-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/logos/theblock-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\logos\theblock-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/manta-fest-pic.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\manta-fest-pic.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/manta.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\manta.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/modal-close.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\modal-close.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/native-next-arrow-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\native-next-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/native-prev-arrow-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\native-prev-arrow-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/networks/networks-hero-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\networks\networks-hero-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/networks/networks-hero-mobile-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\networks\networks-hero-mobile-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/networks/networks-rollup-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\networks\networks-rollup-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/networks/networks-testnet-card-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\networks\networks-testnet-card-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/newsletter-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\newsletter-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/omni-banner.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\omni-banner.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/op-stack.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\op-stack.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/polkadot.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\polkadot.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/polygon.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\polygon.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/pr/pr-coindesk-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\pr\pr-coindesk-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/pr/pr-cointelegraph-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\pr\pr-cointelegraph-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/pr/pr-decrypt-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\pr\pr-decrypt-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/pr/pr-forbes-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\pr\pr-forbes-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/pr/pr-hackernoon-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\pr\pr-hackernoon-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/pr/pr-newsbtc-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\pr\pr-newsbtc-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/pr/pr-theblock-logo.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\pr\pr-theblock-logo.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/renew-banner.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\renew-banner.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/right-arrow.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/rnp-banner.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\rnp-banner.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/socials-element-1.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials-element-1.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/socials-element-2.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials-element-2.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/socials-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/socials/discord-color-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\discord-color-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/discord-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\discord-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/discord-white-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\discord-white-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/github-color-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\github-color-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/github-white-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\github-white-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/medium-color-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\medium-color-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/medium-white-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\medium-white-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/telegram-color-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\telegram-color-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/telegram-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\telegram-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/telegram-white-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\telegram-white-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/twitter-color-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\twitter-color-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/twitter-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\twitter-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/twitter-white-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\twitter-white-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/youtube-color-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\youtube-color-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/socials/youtube-white-icon.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\socials\youtube-white-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/tokenterminal.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\tokenterminal.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/warning.svg
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\warning.svg
+Content Type: image/svg+xml
+
+Uri: https://manta.network/assets/img/web3-go.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\web3-go.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/where-we-are-image.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\where-we-are-image.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/img/zklink-banner.png
+File Name: C:\Downloaded Web Sites\manta.network\assets\img\zklink-banner.png
+Content Type: image/png
+
+Uri: https://manta.network/assets/js/ecosystem.js?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\ecosystem.js
+Content Type: application/javascript
+
+Uri: https://manta.network/assets/js/ecosystem.json.js?v=1.1.7
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\ecosystem.json.js
+Content Type: application/javascript
+
+Uri: https://manta.network/assets/js/home.js?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\home.js
+Content Type: application/javascript
+
+Uri: https://manta.network/assets/js/main.js?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://manta.network/assets/js/media.js?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\media.js
+Content Type: application/javascript
+
+Uri: https://manta.network/assets/js/medium.js?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\medium.js
+Content Type: application/javascript
+
+Uri: https://manta.network/assets/js/swipers.js?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\swipers.js
+Content Type: application/javascript
+
+Uri: https://manta.network/assets/js/wallet.js?v=1.1.4
+File Name: C:\Downloaded Web Sites\manta.network\assets\js\wallet.js
+Content Type: application/javascript
+
+Uri: https://manta.network/ecosystem.html
+File Name: C:\Downloaded Web Sites\manta.network\ecosystem.html
+Content Type: text/html
+
+Uri: https://manta.network/favicon.ico
+File Name: C:\Downloaded Web Sites\manta.network\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://manta.network/networks.html
+File Name: C:\Downloaded Web Sites\manta.network\networks.html
+Content Type: text/html
+
+Uri: https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js
+File Name: C:\Downloaded Web Sites\manta.network\downloads.mailchimp.com\js\mc-validate.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/axios@1.6.8/dist/axios.min.js
+File Name: C:\Downloaded Web Sites\manta.network\axios@1.6.8\dist\axios.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/masonry-layout@4.2.2/dist/masonry.pkgd.min.js
+File Name: C:\Downloaded Web Sites\manta.network\masonry-layout@4.2.2\dist\masonry.pkgd.min.js
+Content Type: application/javascript
+
